@@ -1,0 +1,15 @@
+{
+  "name": "ModelApp",
+  "version": "0.0.0",
+  "description": "ModelApp",
+  "main": "app.js",
+  "author": {
+    "name": "manojshenoy",
+    "email": ""
+  },
+  "dependencies": {
+    "express": "3.4.4",
+    "jade": "*",
+    "stylus": "*"
+  }
+}
